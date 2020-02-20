@@ -1,6 +1,6 @@
 
 # front-vue
-![echarts supported](https://img.shields.io/badge/echarts-%5E4.6.0-brightgreen) ![vue supported](https://img.shields.io/badge/-%5E2.6.11-green)
+![echarts supported](https://img.shields.io/badge/echarts-%5E4.6.0-brightgreen) ![vue supported](https://img.shields.io/badge/vue-%5E2.6.11-brightgreen)
 
 ## Project setup
 ```
